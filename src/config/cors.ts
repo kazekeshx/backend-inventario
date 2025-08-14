@@ -4,7 +4,9 @@ const whitelist = [
     process.env.FRONTEND_URL,
     "http://localhost:4000",
     "https://nebacperu.com",
-    "https://nebacperu.com/inventario"
+    "https://nebacperu.com/inventario",
+    "https://www.nebacperu.com",
+    "https://www.nebacperu.com/inventario"
 ];
 
 export const corsConfig: CorsOptions = {
